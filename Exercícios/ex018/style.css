@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,200;0,300;0,400;1,100;1,200;1,300;1,400;1,500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+@font-face {
+    font-family: 'Boostard signature';
+    src: url(Boostard\ Signature.ttf);
+}
+
+.principal {
+    background-color: rgb(27, 27, 27);
+    border-radius: 20px;
+    padding: 40px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin: 20px;
+    width: 400px;
+    position: relative;
+    margin-left: 70px;
+    margin-top: 115px;
+
+
+}
+body {
+    color: white;
+    font-family: 'Patrick Hand';
+    text-align: center;
+}
+p {
+    font-family: 'Josefin Sans', Arial, sans-serif;
+    text-align: justify;
+}
+h2 {
+    font-family: 'Boostard Signature';
+    font-weight: normal;
+    color: black;
+    padding-top: 5px;
+}
+div {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+    margin-left: 180px;
+}

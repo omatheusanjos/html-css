@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(26, 26, 26);
+    font-family: arial;
+}
+h1 {
+    color: coral;
+}
+h2 {
+    color: white;
+}
+p {
+    color: wheat;
+}
